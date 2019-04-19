@@ -5,8 +5,8 @@ The computer makes a number from 1 to 20. The player has 6 attempts to guess the
 The program prompts the player more or less its number.
 
 
-Пример:
-	Привет! Как тебя зовут?
+Пример: <hr>
+Привет! Как тебя зовут?
 	Александр
 	Что ж, Александр, я загадаю число от 1 до 20.
 	Попробуй угадать.
